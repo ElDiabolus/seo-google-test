@@ -1,0 +1,39 @@
+*
+{
+    font-family: Arial, Verdana, sans-serif;
+}
+
+.inhalt
+{
+    margin: 1% auto 0 auto;
+    width: 30%;
+}
+
+input#seitentitel, input#seitenlink, input#seitenbeschreibung
+{
+    width: 70%;
+}
+
+a.Titel
+{
+    text-decoration: none;
+    font-size: 18px;
+    color: #1a0dab;
+}
+
+a.Titel:visited
+{
+    color: #609;
+}
+
+.Link
+{
+    color: #006621;
+    font-size: 14px;
+}
+
+.Beschreibung
+{
+    font-size: 13px;
+    color: rgb(84, 84, 84);
+}
